@@ -1,0 +1,6 @@
+org\fisglobal\com\attr\Response.class
+org\fisglobal\com\attr\PropertyC.class
+org\fisglobal\com\service\TrasversingFileNames.class
+org\fisglobal\com\PropertyFileEditorApplication.class
+org\fisglobal\com\controller\ListFileController.class
+org\fisglobal\com\controller\PropertiesController.class
